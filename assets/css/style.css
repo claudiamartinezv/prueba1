@@ -16,3 +16,67 @@ body{
 header nav img{
     width: 10%;
   }
+
+  #quienessomos p{
+    font-family: "raleway";
+    font-weight: 300;
+}
+
+#quienessomos div.fondo{
+    background-color: #239DBF;
+    text-align: center;
+}
+
+#quienessomos div i{
+    font-size: 23px;
+}
+
+#quienessomos hr.linea{
+    width: auto;
+    height: 1px;
+    background-color: #239DBF;
+}
+
+#destacados h2{
+    font-family: "raleway";
+    font-weight: 500; 
+}
+
+#destacados hr.linea{
+    width: auto;
+    height: 1px;
+    background-color: #239DBF;
+}
+
+.card-body-celeste {
+    background-color:#239DBF;
+    color: white;
+}
+
+img.card-img-top.acortar{
+    height: 168px;
+}
+
+
+#contacto h2{
+    font-family: "raleway";
+    font-weight: 500;
+}
+
+#contacto hr.linea{
+    width: auto;
+    height: 1px;
+    background-color: #239DBF;
+}
+
+/*footer*/
+
+#footer{
+    background-color:#239DBF;
+}
+
+#footer a i{
+    font-size: 36px;
+    font-weight: 400;
+}
+
