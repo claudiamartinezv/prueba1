@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(7, 7, 7);
+    margin: 0;
+    padding: 0;
+    font-family: "raleway"
+}
+
+.h1-principal {
+    color: transparent;
+    text-indent: -9999px;
+    width: 0px;
+    height: 0px;
+    margin: 0;
+}
+
+header nav img{
+    width: 10%;
+  }
